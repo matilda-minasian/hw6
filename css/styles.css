@@ -11,6 +11,34 @@ body {
     background-color: #ffffff;
 }
 
+h1{
+    font-family: 'Zalando Sans SemiExpanded', sans-serif;
+    font-weight: 564;
+    font-style: italic;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Zalando Sans SemiExpanded', sans-serif;
+    font-weight: 564;
+    font-style: italic;
+    font-size: 25px;
+}
+
+h3{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 528;
+    font-style: normal;
+    font-variation-settings: 'YOPQ' 162;
+    font-size: 20px;
+}
+
+.bold-paragraph {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
 
 /* Header & Footer 
 ------------------------------------*/
@@ -63,35 +91,4 @@ footer a {
     background-color: #9DB5B2;
     padding: 20px;
     margin-bottom: 20px;
-}
-
-
-/* H1,h2, p styles
-------------------------------------*/
-h1{
-    font-family: 'Zalando Sans SemiExpanded', sans-serif;
-    font-weight: 564;
-    font-style: italic;
-    font-size: 40px;
-}
-
-h2{
-    font-family: 'Zalando Sans SemiExpanded', sans-serif;
-    font-weight: 564;
-    font-style: italic;
-    font-size: 25px;
-}
-
-h3{
-    font-family: 'Kumbh Sans', sans-serif;
-    font-weight: 528;
-    font-style: normal;
-    font-variation-settings: 'YOPQ' 162;
-    font-size: 20px;
-}
-
-.bold-paragraph {
-    font-family: 'Kumbh Sans', sans-serif;
-    font-weight: bold;
-    font-size: 16px;
 }
