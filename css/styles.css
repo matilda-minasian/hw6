@@ -42,18 +42,10 @@ h3{
 
 /* Header & Footer 
 ------------------------------------*/
-nav{
-    background-color: #3b413b;
+header {
+    background-color: #9DB5B2;
     padding: 20px;
-    text-align: center;
 }
-
-nav a {
-    color: #ffffff;
-    margin: 0 15px;
-    font-size: 18px;
-}
-
 
 footer{
     background-color: #3b413b;
@@ -68,19 +60,12 @@ footer a {
     font-size: 16px;
 }
 
-#about {
-    background-color: #9DB5B2;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
 /* Work Experience
 ------------------------------------*/
 
 #work {
     background-color: #DAF0EE;
     padding: 20px;
-    margin-bottom: 20px;
 }
 
 
@@ -90,5 +75,4 @@ footer a {
 #education {
     background-color: #9DB5B2;
     padding: 20px;
-    margin-bottom: 20px;
 }
